@@ -1,3 +1,5 @@
 table 
 chair 
 bed 
+dinning table 
+almirah
